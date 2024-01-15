@@ -25,7 +25,8 @@ A starter game design project using the browser, the HTML <code>canvas</code> el
 * Unchangeable settings versus state variables
 * Animation loop
 * Non-vector Euler integration
-* Circle-circle and circle-rectangle collision detection algorithms
+* Collision detection algorithms
+* Game design
 
 Built with vanilla JavaScript, my favorite flavor!
 
