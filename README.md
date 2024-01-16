@@ -22,7 +22,7 @@ Complete curriculum and chunked code for teaching (starter) JavaScript engineeri
 A starter game design project using the browser, the HTML <code>canvas</code> element, keyboard UI, and a new way of thinking about a game app. Students learn:
 * Separation of concerns
 * Module pattern (canvas.js)
-* Unchangeable settings versus state variables
+* Immutable settings versus state variables
 * Animation loop
 * Non-vector Euler integration
 * Collision detection algorithms
